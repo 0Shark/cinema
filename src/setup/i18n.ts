@@ -11,11 +11,15 @@ import it from "./locales/it/translation.json";
 import nl from "./locales/nl/translation.json";
 import pirate from "./locales/pirate/translation.json";
 import pl from "./locales/pl/translation.json";
+import sq from "./locales/sq/translation.json";
 import tr from "./locales/tr/translation.json";
 import vi from "./locales/vi/translation.json";
 import zh from "./locales/zh/translation.json";
 
 const locales = {
+  sq: {
+    translation: sq,
+  },
   en: {
     translation: en,
   },

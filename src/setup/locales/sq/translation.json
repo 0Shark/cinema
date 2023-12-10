@@ -1,0 +1,137 @@
+{
+  "global": {
+    "name": "kinoshqip"
+  },
+  "search": {
+    "loading_series": "Duke marrë seritë tuaja të preferuare...",
+    "loading_movie": "Duke marrë filmat tuaj të preferuar...",
+    "loading": "Duke u ngarkuar...",
+    "allResults": "Këto janë të gjitha rezultatet që gjetëm!",
+    "noResults": "Ne nuk mundëm të gjejmë asgjë!",
+    "allFailed": "Dështim në gjetjen e medias, provo përsëri!",
+    "headingTitle": "Rezultatet e kërkimit",
+    "bookmarks": "Ruajtjet",
+    "continueWatching": "Vazhdo Shikimin",
+    "title": "Çfarë dëshironi të shikoni?",
+    "placeholder": "Çfarë dëshironi të shikoni?"
+  },
+  "media": {
+    "movie": "Film",
+    "series": "Serial",
+    "stopEditing": "Ndalo redaktimin",
+    "errors": {
+      "genericTitle": "Ops, nuk punoi!",
+      "failedMeta": "Ngarkimi i metadata dështoi, provo përsëri!",
+      "mediaFailed": "Media që kërkoni nuk u gjet, kontrolloni lidhjen tuaj në internet ose provo përsëri më vonë.",
+      "videoFailed": "Në hasëm në një problem gjatë shfaqjes së videove që kërkoni. Nëse vazhdon të ndodhë kjo, ju lutemi raportoni problemet në <0>serverin Discord</0> ose në <1>GitHub</1>."
+    }
+  },
+  "seasons": {
+    "seasonAndEpisode": "S{{season}} E{{episode}}"
+  },
+  "notFound": {
+    "genericTitle": "Nuk u gjet",
+    "backArrow": "Kthehu mbrapa",
+    "media": {
+      "title": "Nuk mund të gjendet kjo media",
+      "description": "Ne nuk mund të gjejmë median që kërkoni. Ose është hequr ose kenë ndryshuar URL-në."
+    },
+    "provider": {
+      "title": "Ky furnizues filmash është i çaktivizuar",
+      "description": "Kemi pasur probleme me furnizuesin e filmave ose ishte shumë i ngadaltë për t'u përdorur, kështu që duhet ta çaktivizonim."
+    },
+    "page": {
+      "title": "Nuk mund të gjendet kjo faqe",
+      "description": "Kemi kërkuar kudo: nën kosh, në dollap, pas proxy, por në fund nuk mundëm ta gjejmë faqen që po kërkoni."
+    }
+  },
+  "searchBar": {
+    "movie": "Film",
+    "series": "Serial",
+    "Search": "Kërko"
+  },
+  "videoPlayer": {
+    "findingBestVideo": "Duke gjetur videon më të mirë për ju",
+    "noVideos": "Ou, nuk mundëm të gjejmë asnjë video për ju",
+    "loading": "Duke ngarkuar...",
+    "backToHome": "Kthehu mbrapa",
+    "backToHomeShort": "Kthehu",
+    "seasonAndEpisode": "S{{season}} E{{episode}}",
+    "timeLeft": "{{timeLeft}} kohë e mbetur",
+    "finishAt": "Përfundon në {{timeFinished, datetime}}",
+    "buttons": {
+      "episodes": "Episodet",
+      "source": "Burimi",
+      "captions": "Titrat",
+      "download": "Shkarko",
+      "settings": "Cilësimet",
+      "pictureInPicture": "Hap si një dritare e vogël",
+      "playbackSpeed": "Shpejtësia e transmetimit"
+    },
+    "popouts": {
+      "back": "Kthehu",
+      "sources": "Burimet",
+      "close": "Mbylle",
+      "seasons": {
+        "title": "Sezonet",
+        "other": "Sezone të tjera",
+        "noSeason": "Asnjë sezon"
+      },
+      "episodes": {
+        "unknown": "Episod i panjohur",
+        "noEpisode": "Asnjë episod"
+      },
+      "captions": "Titrat",
+      "playbackSpeed": "Shpejtësia e transmetimit",
+      "customPlaybackSpeed": "Shpejtësi transmetimi e veçantë",
+      "captionPreferences": {
+        "title": "Përshtat",
+        "delay": "Vonesa",
+        "fontSize": "Madhësia",
+        "opacity": "Transparenca",
+        "color": "Ngjyra"
+      },
+      "episode": "E{{index}} - {{title}}",
+      "noCaptions": "Pa titra",
+      "linkedCaptions": "Titra të bashkangjitur",
+      "customCaption": "Titra të veçantë",
+      "uploadCustomCaption": "Ngarko titra",
+      "noEmbeds": "Nuk u gjet asgjë në këtë burim",
+
+      "errors": {
+        "loadingWentWong": "Diçka shkoi keq duke ngarkuar episodet për {{seasonTitle}}",
+        "embedsError": "Diçka shkoi keq duke ngarkuar mediat për këtë gjë që ju pëlqeni"
+      },
+      "descriptions": {
+        "sources": "Cilin furnizues doni të përdorni?",
+        "embeds": "Zgjidhni cilin video të shikoni",
+        "seasons": "Zgjidhni cilin sezon dëshironi të shikoni",
+        "episode": "Zgjidhni një episod",
+        "captions": "Zgjidhni një gjuhë për titrat",
+        "captionPreferences": "Bëjini titrat të duken siç dëshironi",
+        "playbackSpeed": "Ndryshoni shpejtësinë e transmetimit"
+      }
+    },
+    "errors": {
+      "fatalError": "Videoja hasi në një gabim fatal, ju lutem raportoni atë në <0>serverin Discord</0> ose në <1>GitHub</1>."
+    }
+  },
+  "settings": {
+    "title": "Cilësimet",
+    "language": "Gjuha",
+    "captionLanguage": "Gjuha e titrave"
+  },
+  "v3": {
+    "newSiteTitle": "Sapo ka dalë një version i ri!",
+    "newDomain": "https://cinema.juledz.com",
+    "newDomainText": "Kinemaja së shpejti do të zhvendoset në një domain të ri: <0>https://cinema.juledz.com</0>. Sigurohuni që të përditësoni të gjitha faqosjet tuaja pasi <1>faqja e vjetër do të ndalojë së funksionuari më {{date}}.</1>",
+    "tireless": "Kemi punuar pa pushim në këtë përditësim të ri, shpresojmë që do të kënaqeni me atë që kemi përgatitur për ju gjatë muajve të kaluar.",
+    "leaveAnnouncement": "Më dërgo tek faqja e re!"
+  },
+  "casting": {
+    "casting": "Duke përcjellë te pajisja..."
+  },
+  "errors": {
+    "offline": "Kontrolloni lidhjen tuaj në internet"
+  }
+}
